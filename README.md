@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Fyre The Cleaner
 
-You can use the [editor on GitHub](https://github.com/ConniTheKiwi/Fyre-The-Cleaner/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a discord bot designed for LGBT/Trans servers with a database full of the bans from larger LGBT/Trans servers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+all the bans in our database are from larger trusted/responsible servers or from Pridefall leaks
 
-### Markdown
+When someone joins the server you can use the command *inspect <userID/tag> example 299709641271672832 or "Conni!~#0920" this will display information about that users ban if they are banned else it will tell you they are not known to the db
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*checkall will check all existing users to see if they are known as being bad people
 
-```markdown
-Syntax highlighted code block
+You can add to our database by contacting me on discord and proving you can be trusted Conni!~#0920
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ConniTheKiwi/Fyre-The-Cleaner/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+commands (everyone) -
+<br>
+`<prefix>checkall` - scans every user in the server against the db
+<br>
+`<prefix>inspect <mention/id>` - scans a user against the db
+<br>
+`<prefix>newusers <count>` - lists users sorted by join date new first
+<br>
+`<prefix>oldusers <count>` - lists users sorted by join date old first
+<br>
+`<prefix>botstats` - returns the stats of the bot and what it is up to rn
+<br>
+`<prefix>info` - get bot version and creators discord tag
+<br>
+<br>
+extra commands (verified servers) -
+<br>
+`<prefix>submit` - starts the process of manuely adding someone to the db
